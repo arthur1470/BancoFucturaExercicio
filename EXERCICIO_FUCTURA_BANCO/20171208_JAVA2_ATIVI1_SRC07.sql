@@ -1,0 +1,53 @@
+-- ARTHUR MARQUES GOMES DA SILVA
+-- INSERT DOS ENDERECOS
+-- ATIVIDADE 01
+-- TURMA JAVA 2
+
+
+INSERT INTO TBL_ENDERECO
+VALUES
+(TBL_ENDERECO_SEQ.NEXTVAL,
+'Rua do Apolo',
+'Recife',
+'Recife'
+);
+
+INSERT INTO TBL_ENDERECO
+VALUES
+(TBL_ENDERECO_SEQ.NEXTVAL,
+'Rua Iguatu',
+'Campina do Barreto',
+'Recife'
+);
+
+INSERT INTO TBL_ENDERECO
+VALUES
+(TBL_ENDERECO_SEQ.NEXTVAL,
+'Rua Carneiro Viléla',
+'Encruzilhada',
+'Recife'
+);
+
+INSERT INTO TBL_ENDERECO
+VALUES
+(TBL_ENDERECO_SEQ.NEXTVAL,
+'Av. Gov. Agamenon Magalhães',
+'Espinheiro',
+'Recife'
+);
+
+INSERT INTO TBL_ENDERECO
+VALUES
+(TBL_ENDERECO_SEQ.NEXTVAL,
+'Rua Nuporanga',
+'Graças',
+'Recife'
+);
+
+INSERT INTO TBL_ENDERECO
+VALUES
+(TBL_ENDERECO_SEQ.NEXTVAL,
+'Rua do Sossego',
+'Arruda',
+'Recife'
+);
